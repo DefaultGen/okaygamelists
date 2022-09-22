@@ -26,4 +26,4 @@ The titles starting with "Disney's" or “MTV’s” are often inconsistently re
 
 ### Retitled Games
 
-Many games have been retitled in their lifespan. For example Stadium Events was renamed World Class Track Meet and ESPN Extreme Games was renamed 1Xtreme. These lists include the first title as the canonical title. Retitled games should be noted below the lists.
+Many games have been retitled in their lifespan. For example Stadium Events was renamed World Class Track Meet and ESPN Extreme Games was renamed 1Xtreme. These lists include the first title as the canonical title. The lists do **not** include both titles as separate entries if they are substantially the same game. A different title screen is not a different game. Retitled games will be noted below the lists so you can make your own distinction.
