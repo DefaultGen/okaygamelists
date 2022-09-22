@@ -15,6 +15,11 @@ If you are maintaining a database of video games, it is very useful to include a
 
 For consistency's sake titles and subtitles are separated by a colon whether it's actually in the title or not. This leads to many situations where the game title is not literally what's printed in the game materials. For example Double Dribble: 5 on 5 is printed as "Double Dribble 5 on 5" on the box and printed as "Double Dribble - 5 on 5" in the manual. As much as I'd love to be strictly accurate, picking any one formatting as correct would make many titles strange and inconsistent. No one wants Wario Land on their list as “Wario Land Super Mario Land 3” with no punctuation, which is how the manual refers to it.
 
+![](https://i.imgur.com/TwIkSpu.png)
+
 ### Possessives
 
 The titles starting with "Disney's" or “MTV’s” are often inconsistently referenced between different lists. Similar to Mike Tyson’s Punch-Out!!, these lists include the possessives if it appears on the majority of the front of the box, the game manual, and title screen. For example Game Boy's "The Billiard Congress of America Presents Championship Pool" is just titled "Championship Pool" because the possessive only ever appears as a blurb on front of the box.
+
+![](https://i.imgur.com/ZZZ0mye.png)
+![](https://i.imgur.com/co7ikeh.png)
