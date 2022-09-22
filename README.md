@@ -7,7 +7,7 @@ Each game on these lists is individually vetted, considered, and re-titled. Noth
 
 ### Choosing one title per game
 
-Every entry on each of these lists is indivdually verified and I've chosen the "most correct" title in my opinion based on the box, manual, and title screen. Many games have multiple variously formatted or ambiguous titles. It is out of the scope these lists to try to rectify this, but I did try to pick the best one so you don't end up with nonsense like "Aladdin (Disney's)" in your list of games as if the Disney's is in parentheses at the end of the title.
+Every entry on each of these lists is indivdually verified and I've chosen the single best title in my opinion based on the box, manual, and title screen. Many games have multiple variously formatted or ambiguous titles. It is out of the scope these lists to try to rectify this, but I did try to pick the best one so you don't end up with nonsense like "Aladdin (Disney's)" in your list of games as if the Disney's is in parentheses at the end of the title.
 
 For consistency's sake titles and subtitles are separated by a colon whether it's actually in the title or not. This leads to many situations where the game title is not literally what's printed in the game materials. For example Double Dribble: 5 on 5 is printed as "Double Dribble 5 on 5" on the box and printed as "Double Dribble - 5 on 5" in the manual. As much as I'd love to be strictly accurate, picking any one formatting as correct would make many titles strange and inconsistent. No one wants Wario Land on their list as “Wario Land Super Mario Land 3” with no punctuation, which is how the manual refers to it.
 
