@@ -24,6 +24,6 @@ The titles starting with "Disney's" or “MTV’s” are often inconsistently re
 ![](https://i.imgur.com/ZZZ0mye.png)
 ![](https://i.imgur.com/co7ikeh.png)
 
-### Retited Games
+### Retitled Games
 
 Many games have been retitled in their lifespan. For example Stadium Events was renamed World Class Track Meet and ESPN Extreme Games was renamed 1Xtreme. These lists include the first title as the canonical title. Retitled games should be noted below the lists.
