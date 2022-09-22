@@ -17,5 +17,4 @@ For consistency's sake titles and subtitles are separated by a colon whether it'
 
 ### Possessives
 
-The titles starting with "Disney's" or “MTV’s” are often inconsistently referenced between different lists. Similar to Mike Tyson’s Punch-Out!!, these lists include the possessives so long as they don’t only appear on the front of the box. For example The Billiard Congress of America Presents Championship Pool is just titled Championship Pool because the possessive only ever appears as a blurb on front of the box.
-
+The titles starting with "Disney's" or “MTV’s” are often inconsistently referenced between different lists. Similar to Mike Tyson’s Punch-Out!!, these lists include the possessives if it appears on the majority of the front of the box, the game manual, and title screen. For example Game Boy's "The Billiard Congress of America Presents Championship Pool" is just titled "Championship Pool" because the possessive only ever appears as a blurb on front of the box.
