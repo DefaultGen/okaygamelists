@@ -515,7 +515,7 @@ At some point Beethoven: the Ultimate Canine Caper, Blues Brothers: Jukebox Adve
 For consistency's sake titles and subtitles are separated by a colon whether it's actually in the title or not. This leads to many situations where the game title is not literally what's printed in the game materials. For example Double Dribble: 5 on 5 is printed as "Double Dribble 5 on 5" on the box and printed as "Double Dribble - 5 on 5" in the manual. As much as I'd love to be strictly accurate, picking any one formatting as correct would make many titles strange and inconsistent. No one wants Wario Land on their list as “Wario Land Super Mario Land 3” with no punctuation which is how the manual refers to it.
 The titles starting with "Disney's" or “MTV’s” are often inconsistently referenced between different lists. Similar to Mike Tyson’s Punch-Out!!, this list includes the possessives so long as they don’t only appear on the front of the box. For example The Billiard Congress of America Presents Championship Pool is just titled Championship Pool because that only ever appears as a blurb on front of the box.
 
-##Some weird/inconsistent game titles include:
+### Some weird/inconsistent game titles include:
 Arcade Classic No. 1: Asteroids / Missile Command - The slash comes from the game manual. This game (and the three others) are actually only referred to as “Asteroids / Missile Command” in the manual and title screen, but since the Arcade Classic text is all of the covers and clearly not a tagline, I’m including it in the title.
 
 Battletoads / Double Dragon - This formatting comes from the NES manual. It’s never printed in the Game Boy Manual.
@@ -542,11 +542,11 @@ The Black Bass: Lure Fishing - This is the title actually used in the manual and
 
 # Unlicensed US releases
 
-Exodus: Journey to the Promised Land
-Joshua & the Battle of Jericho
-King James Bible
-NIV Bible & the 20 Lost Levels of Joshua
-Spiritual Warfare
+1. Exodus: Journey to the Promised Land
+2. Joshua & the Battle of Jericho
+3. King James Bible
+4. NIV Bible & the 20 Lost Levels of Joshua
+5. Spiritual Warfare
 
 ## Notes:
 
@@ -654,191 +654,191 @@ World Circuit Series (Ultra Games)
 World Circuit Series (Konami)
 
 ## Notes:
-- This list is potentially incomplete
+- **This list is potentially incomplete**
 - Ultra Games was a shell corporation crated as a subsidiary of Konami
 - For the following games the second release by Nintendo/Disney Interactive Studios was only a Player's Choice release: DuckTales 2, The Little Mermaid, Mega Man: Dr. Wily's Revenge, Mega Man II, Mickey's Dangerous Chase, Star Wars, The Bugs Bunny Crazy Castle, The Bugs Bunny Crazy Castle 2
 - There are publisher name variants such as "Konami, Inc." changing to "Konami of America, Inc.". Since many people would just say "Konami", they're poorly documented, and this isn't my wheelhouse, I did not attempt to include these.
 
 # Backwards Compatible Game Boy Color Games
 
-720°
-Antz
-Asteroids
-Azure Dreams
-Babe and Friends
-Ballistic
-Barbie: Fashion Pack Games
-Barbie: Ocean Discovery
-Bass Masters Classic
-Battleship
-Black Bass: Lure Fishing
-Blaster Master: Enemy Below
-Bomberman Quest
-Bugs Bunny: Crazy Castle 3
-Bust-A-Move 4
-Centipede
-Chase H.Q.: Secret Police
-Chessmaster
-Classic Bubble Bobble
-Conker's Pocket Tales
-Daffy Duck: Fowl Play
-Disney's Beauty and the Beast: A Board Game Adventure
-Disney/Pixar A Bug's Life
-Disney/Pixar Toy Story 2
-Dragon Dance
-Dragon Warrior I & II
-Dragon Warrior Monsters
-Dragon Warrior Monsters 2: Cobi's Journey
-Dragon Warrior Monsters 2: Tara's Adventure
-Earthworm Jim: Menace 2 the Galaxy
-Evel Knievel
-FIFA 2000
-Frogger
-Game & Watch Gallery 2
-Game & Watch Gallery 3
-Gex: Enter the Gecko
-Ghosts 'n Goblins
-Godzilla: The Series
-Grand Theft Auto
-Harvest Moon GBC
-Harvest Moon 2 GBC
-Hello Kitty's Cube Frenzy
-Hexcite: The Shapes of Victory
-Hole in One Golf
-Hot Wheels: Stunt Track Driver
-International Rally
-International Superstar Soccer '99
-International Track & Field
-Jeff Gordon XS Racing
-Klustar
-Las Vegas Cool Hand
-Legend of the River King GBC
-Legend of the River King 2
-The Legend of Zelda: Link's Awakening DX
-Lil' Monster
-Looney Tunes
-Looney Tunes: Carrot Crazy
-Looney Tunes: Twouble!
-Madden NFL 2000
-Mary-Kate & Ashley: Get a Clue!
-Mary-Kate & Ashley: Pocket Planner
-Matchbox Caterpillar Construction Zone
-Mega Man Xtreme
-Men in Black: The Series
-Metal Walker
-Midway Presents Arcade Hits: Joust / Defender
-Midway Presents Arcade Hits: Moon Patrol / Spy Hunter
-Monopoly
-Monster Rancher Battle Card GB
-Montezuma's Return
-Mortal Kombat 4
-Ms. Pac-Man: Special Color Edition
-NBA 3 on 3 featuring Kobe Bryant
-NBA in the Zone
-NBA Jam '99
-The New Adventures of Mary-Kate & Ashley
-NFL Blitz
-NHL 2000
-Oddworld Adventures 2
-Pac-Man: Special Color Edition
-Pitfall: Beyond the Jungle
-Pocket Bomberman
-Pocket Bowling
-Pokémon Gold Version
-Pokémon Pinball
-Pokémon Silver Version
-Pokémon Trading Card Game
-Power Quest
-Prince of Persia
-Puzzle Master
-Quest: Brian's Journey
-Quest: Fantasy Challenge
-Quest for Camelot
-R-Type DX
-Rampage: World Tour
-Rats!
-Revelations: The Demon Slayer
-Roadsters Trophy
-Robopon: Sun Version
-Ronaldo V-Soccer
-Rox
-Rugrats: Time Travelers
-The Rugrats Movie
-Sesame Street: Elmo's 123s
-Sesame Street: Elmo's ABCs
-Sesame Street: The Adventures of Elmo in Grouchland
-Shadowgate Classic
-Shamus
-Shanghai Pocket
-Singer Sewing Machine Operating Software
-Space Invaders
-Speedy Gonzales: Aztec Adventure
-Star Wars: Yoda Stories
-Super Breakout
-Survival Kids
-Tasmanian Devil: Munching Madness
-Test Drive 6
-Test Drive Off-Road 3
-Tetris DX
-Tiger Woods PGA Tour 2000
-Titus the Fox
-TNN Outdoors Fishing Champ
-Turok 2: Seeds of Evil
-Uno
-Wario Land II
-Wings of Fury
-WWF WrestleMania 2000
-Yars' Revenge
+1. 720°
+2. Antz
+3. Asteroids
+4. Azure Dreams
+5. Babe and Friends
+6. Ballistic
+7. Barbie: Fashion Pack Games
+8. Barbie: Ocean Discovery
+9. Bass Masters Classic
+10. Battleship
+11. Black Bass: Lure Fishing
+12. Blaster Master: Enemy Below
+13. Bomberman Quest
+14. Bugs Bunny: Crazy Castle 3
+15. Bust-A-Move 4
+16. Centipede
+17. Chase H.Q.: Secret Police
+18. Chessmaster
+19. Classic Bubble Bobble
+20. Conker's Pocket Tales
+21. Daffy Duck: Fowl Play
+22. Disney's Beauty and the Beast: A Board Game Adventure
+23. Disney/Pixar A Bug's Life
+24. Disney/Pixar Toy Story 2
+25. Dragon Dance
+26. Dragon Warrior I & II
+27. Dragon Warrior Monsters
+28. Dragon Warrior Monsters 2: Cobi's Journey
+29. Dragon Warrior Monsters 2: Tara's Adventure
+30. Earthworm Jim: Menace 2 the Galaxy
+31. Evel Knievel
+32. FIFA 2000
+33. Frogger
+34. Game & Watch Gallery 2
+35. Game & Watch Gallery 3
+36. Gex: Enter the Gecko
+37. Ghosts 'n Goblins
+38. Godzilla: The Series
+39. Grand Theft Auto
+40. Harvest Moon GBC
+41. Harvest Moon 2 GBC
+42. Hello Kitty's Cube Frenzy
+43. Hexcite: The Shapes of Victory
+44. Hole in One Golf
+45. Hot Wheels: Stunt Track Driver
+46. International Rally
+47. International Superstar Soccer '99
+48. International Track & Field
+49. Jeff Gordon XS Racing
+50. Klustar
+51. Las Vegas Cool Hand
+52. Legend of the River King GBC
+53. Legend of the River King 2
+54. The Legend of Zelda: Link's Awakening DX
+55. Lil' Monster
+56. Looney Tunes
+57. Looney Tunes: Carrot Crazy
+58. Looney Tunes: Twouble!
+59. Madden NFL 2000
+60. Mary-Kate & Ashley: Get a Clue!
+61. Mary-Kate & Ashley: Pocket Planner
+62. Matchbox Caterpillar Construction Zone
+63. Mega Man Xtreme
+64. Men in Black: The Series
+65. Metal Walker
+66. Midway Presents Arcade Hits: Joust / Defender
+67. Midway Presents Arcade Hits: Moon Patrol / Spy Hunter
+68. Monopoly
+69. Monster Rancher Battle Card GB
+70. Montezuma's Return
+71. Mortal Kombat 4
+72. Ms. Pac-Man: Special Color Edition
+73. NBA 3 on 3 featuring Kobe Bryant
+74. NBA in the Zone
+75. NBA Jam '99
+76. The New Adventures of Mary-Kate & Ashley
+77. NFL Blitz
+78. NHL 2000
+79. Oddworld Adventures 2
+80. Pac-Man: Special Color Edition
+81. Pitfall: Beyond the Jungle
+82. Pocket Bomberman
+83. Pocket Bowling
+84. Pokémon Gold Version
+85. Pokémon Pinball
+86. Pokémon Silver Version
+87. Pokémon Trading Card Game
+88. Power Quest
+89. Prince of Persia
+90. Puzzle Master
+91. Quest: Brian's Journey
+92. Quest: Fantasy Challenge
+93. Quest for Camelot
+94. R-Type DX
+95. Rampage: World Tour
+96. Rats!
+97. Revelations: The Demon Slayer
+98. Roadsters Trophy
+99. Robopon: Sun Version
+100. Ronaldo V-Soccer
+101. Rox
+102. Rugrats: Time Travelers
+103. The Rugrats Movie
+104. Sesame Street: Elmo's 123s
+105. Sesame Street: Elmo's ABCs
+106. Sesame Street: The Adventures of Elmo in Grouchland
+107. Shadowgate Classic
+108. Shamus
+109. Shanghai Pocket
+110. Singer Sewing Machine Operating Software
+111. Space Invaders
+112. Speedy Gonzales: Aztec Adventure
+113. Star Wars: Yoda Stories
+114. Super Breakout
+115. Survival Kids
+116. Tasmanian Devil: Munching Madness
+117. Test Drive 6
+118. Test Drive Off-Road 3
+119. Tetris DX
+120. Tiger Woods PGA Tour 2000
+121. Titus the Fox
+122. TNN Outdoors Fishing Champ
+123. Turok 2: Seeds of Evil
+124. Uno
+125. Wario Land II
+126. Wings of Fury
+127. WWF WrestleMania 2000
+128. Yars' Revenge
 
-Notes:
-The Singer Izik cartridge was bundled with a sewing machine that included a GBC, yet it's backwards compatible. Neat.
-There are backwards compatible GBC games on this list with the same name as separate GB games (Asteroids, Monopoly, Prince of Persia, Space Invaders, Titus the Fox, Wario Land II, etc.)
-There is some debate as to whether Pokemon Yellow belongs on this list or the main GB list. I’ve chosen to include it on the main GB list.
-I've seen 1942, Donald Duck Goin' Quackers, Driver, Formula One 2000, Gex 3, Motocross Maniacs 2, NFL Blitz 2000, NHL Blades of Steel, Ready 2 Rumble, Rhino Rumble, The Smurf's Nightmare, Top Gear Pocket, Vigilante 8, and Xtreme Sports erroneously listed as backwards compatible.
-The Game Boy Color Promotional Demo cartridge is also a black cart but isn't backwards compatible
+## Notes:
+- The Singer Izik cartridge was bundled with a sewing machine that included a GBC, yet it's backwards compatible. Neat.
+- There are backwards compatible GBC games on this list with the same name as separate GB games (Asteroids, Monopoly, Prince of Persia, Space Invaders, Titus the Fox, Wario Land II, etc.)
+- There is some debate as to whether Pokemon Yellow belongs on this list or the main GB list. I’ve chosen to include it on the main GB list.
+- I've seen 1942, Donald Duck Goin' Quackers, Driver, Formula One 2000, Gex 3, Motocross Maniacs 2, NFL Blitz 2000, NHL Blades of Steel, Ready 2 Rumble, Rhino Rumble, The Smurf's Nightmare, Top Gear Pocket, Vigilante 8, and Xtreme Sports erroneously listed as backwards compatible.
+- The Game Boy Color Promotional Demo cartridge is also a black cart but isn't backwards compatible
 
-Player's Choice Releases
+# Player's Choice Releases
 
-Disney's DuckTales 2
-Disney's The Little Mermaid
-Donkey Kong
-Donkey Kong Land
-Donkey Kong Land 2
-Dr. Mario
-F-1 Race
-Golf
-James Bond 007
-Kirby's Dream Land
-Kirby's Dream Land 2
-Kirby's Pinball Land
-Mega Man II
-Mega Man: Dr. Wily's Revenge
-Metroid II: Return of Samus
-Mickey Mouse: Magic Wands!
-Mickey's Dangerous Chase
-Space Invaders
-Star Wars
-Street Fighter II
-Super Mario Land
-Super Mario Land 2: 6 Golden Coins
-Super R.C. Pro-Am
-Tennis
-Tetris
-The Bugs Bunny Crazy Castle
-The Bugs Bunny Crazy Castle 2
-The Legend of Zelda: Link's Awakening
-The Smurfs
-Wario Land: Super Mario Land 3
-Wave Race
+1. Disney's DuckTales 2
+2. Disney's The Little Mermaid
+3. Donkey Kong
+4. Donkey Kong Land
+5. Donkey Kong Land 2
+6. Dr. Mario
+7. F-1 Race
+8. Golf
+9. James Bond 007
+10. Kirby's Dream Land
+11. Kirby's Dream Land 2
+12. Kirby's Pinball Land
+13. Mega Man II
+14. Mega Man: Dr. Wily's Revenge
+15. Metroid II: Return of Samus
+16. Mickey Mouse: Magic Wands!
+17. Mickey's Dangerous Chase
+18. Space Invaders
+19. Star Wars
+20. Street Fighter II
+21. Super Mario Land
+22. Super Mario Land 2: 6 Golden Coins
+23. Super R.C. Pro-Am
+24. Tennis
+25. Tetris
+26. The Bugs Bunny Crazy Castle
+27. The Bugs Bunny Crazy Castle 2
+28. The Legend of Zelda: Link's Awakening
+29. The Smurfs
+30. Wario Land: Super Mario Land 3
+31. Wave Race
 
-Notes:
-The Smurfs was only released as Player's Choice in the US
+## Notes:
+The Smurfs and Mickey Mouse: Magic Wands were only ever released as Player's Choice in the US
 
-Sources:
+# Sources:
 
-VGDB keeps a list that distinguish variants and re-releases: [https://vgdb.io/releases?query=&system=GB&region=NA_USA&edition=&publisher=&order_by=NAME&per_page=100](https://vgdb.io/releases?query=&system=GB&region=NA_USA&edition=&publisher=&order_by=NAME&per_page=100)
-Our own JVOSS has blog posts on various foreign and NFR sets: [https://www.videogamesage.com/blogs/blog/4-gameboy-talk/](https://www.videogamesage.com/blogs/blog/4-gameboy-talk/)
-RH has a thread on GB variants: [https://www.videogamesage.com/forums/topic/733-work-in-progress-complete-list-of-naus-game-boy-cartridge-variants/](https://www.videogamesage.com/forums/topic/733-work-in-progress-complete-list-of-naus-game-boy-cartridge-variants/)
-Game Boy Database has an impressive variant list with both cart and box pictures: [http://game-boy-database.com/fullset-USA.html](http://game-boy-database.com/fullset-USA.html)
-The NintendoAge list was an important resource but has inaccuracies and is pretty hard to read now: [https://web.archive.org/web/20180822104954/http://nintendoage.com/index.cfm?FuseAction=Search.GB](https://web.archive.org/web/20180822104954/http://nintendoage.com/index.cfm?FuseAction=Search.GB)
+- VGDB keeps a list that distinguish variants and re-releases: [https://vgdb.io/releases?query=&system=GB&region=NA_USA&edition=&publisher=&order_by=NAME&per_page=100](https://vgdb.io/releases?query=&system=GB&region=NA_USA&edition=&publisher=&order_by=NAME&per_page=100)
+- VGS's own JVOSS has blog posts on various foreign and NFR sets: [https://www.videogamesage.com/blogs/blog/4-gameboy-talk/](https://www.videogamesage.com/blogs/blog/4-gameboy-talk/)
+- RH has a thread on GB variants: [https://www.videogamesage.com/forums/topic/733-work-in-progress-complete-list-of-naus-game-boy-cartridge-variants/](https://www.videogamesage.com/forums/topic/733-work-in-progress-complete-list-of-naus-game-boy-cartridge-variants/)
+- Game Boy Database has an impressive variant list with both cart and box pictures: [http://game-boy-database.com/fullset-USA.html](http://game-boy-database.com/fullset-USA.html)
+- The NintendoAge list was an important resource but has inaccuracies and is pretty hard to read now: [https://web.archive.org/web/20180822104954/http://nintendoage.com/index.cfm?FuseAction=Search.GB](https://web.archive.org/web/20180822104954/http://nintendoage.com/index.cfm?FuseAction=Search.GB)
 While it's far from my primary source, Wikipedia editors have cleaned up many lists like this in recent years: [https://en.wikipedia.org/wiki/List_of_Game_Boy_games](https://en.wikipedia.org/wiki/List_of_Game_Boy_games)
