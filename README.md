@@ -3,6 +3,14 @@ Okay Game Lists is a project to create simple, annotated, copy-pastable lists of
 
 The intention for these lists is to make it easy to understand what is included, what's on the edge, and why so you can build your own list(s). Each console is broken into multiple significant lists (e.g. licensed, unlicensed, players choice) and has notes explaining why certain games may be included or excluded. For example, Game Boy Camera is included on the Game Boy list because it is a cartridge with games on it. Game Genie is not on the list because it's not a game. Since either of these _could_ be  contentious, the notes explain the reasoning so you can make your own decision on whether to cut them or not.
 
+Each game on these lists is individually vetted, considered, and re-titled. Nothing is copy pasted.
+
+### Chosing one title per game
+
 Every entry on each of these lists is indivdually verified and I've chosen the "most correct" title in my opinion based on the box, manual, and title screen. Many games have multiple variously formatted or ambiguous titles. It is out of the scope these lists to try to rectify this, but I did try to pick the best one so you don't end up with nonsense like "Aladdin (Disney's)" in your list of games as if the Disney's is in parentheses at the end of the title.
 
-Each game on these lists is individually vetted, considered, and re-titled. Nothing is copy pasted.
+For consistency's sake titles and subtitles are separated by a colon whether it's actually in the title or not. This leads to many situations where the game title is not literally what's printed in the game materials. For example Double Dribble: 5 on 5 is printed as "Double Dribble 5 on 5" on the box and printed as "Double Dribble - 5 on 5" in the manual. As much as I'd love to be strictly accurate, picking any one formatting as correct would make many titles strange and inconsistent. No one wants Wario Land on their list as “Wario Land Super Mario Land 3” with no punctuation, which is how the manual refers to it.
+
+The titles starting with "Disney's" or “MTV’s” are often inconsistently referenced between different lists. Similar to Mike Tyson’s Punch-Out!!, this list includes the possessives so long as they don’t only appear on the front of the box. For example The Billiard Congress of America Presents Championship Pool is just titled Championship Pool because that only ever appears as a blurb on front of the box.
+
+If you are maintaining a database of video games, it is very useful to include all variations of a game title. These lists are not meant to replace such a database.
