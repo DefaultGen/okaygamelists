@@ -1,4 +1,4 @@
-# Licensed US Games
+# US Licensed Games
 1. 4-in-1 Fun Pak
 2. 4-in-1 Funpak: Volume II
 3. Adventure Island
@@ -516,29 +516,18 @@ For consistency's sake titles and subtitles are separated by a colon whether it'
 The titles starting with "Disney's" or “MTV’s” are often inconsistently referenced between different lists. Similar to Mike Tyson’s Punch-Out!!, this list includes the possessives so long as they don’t only appear on the front of the box. For example The Billiard Congress of America Presents Championship Pool is just titled Championship Pool because that only ever appears as a blurb on front of the box.
 
 ### Some weird/inconsistent game titles include:
-Arcade Classic No. 1: Asteroids / Missile Command - The slash comes from the game manual. This game (and the three others) are actually only referred to as “Asteroids / Missile Command” in the manual and title screen, but since the Arcade Classic text is all of the covers and clearly not a tagline, I’m including it in the title.
-
-Battletoads / Double Dragon - This formatting comes from the NES manual. It’s never printed in the Game Boy Manual.
-
-Batman Forever - “The Real Game Begins” text is interpreted as a tagline, not a subtitle
-
-Battleship - “The Classic Naval Combat Game” is interpreted as a tagline because it doesn’t appear everywhere on the box and isn’t used within the manual or game.
-
-Bill & Ted's Excellent Game Boy Adventure - “A Bogus Journey!” is a tagline that only appears on the back of the box.
-
-Bo Jackson Hit and Run! Baseball and Football - This game title is a mess. The front packaging refers to it as “Bo Jackson - Two Games in One” and the back of the box lists each game individually. But the manual and title screen refer to it as this so that’s what I’m going with.
-
-Boggle Plus - “3-Minute Word Games” is interpreted as a tagline
-
-BreakThru - “Alexey Pajitnov, Creator of Tetris, Introduces:” only ever appears on the front of the box so I’m not including it in the title.
-
-Championship Pool - For everybody’s sanity I’m leaving out “The Billiard Congress of America Presents” from the title, which does not appear within the manual or on the title screen. The Sega Genesis version actually does have a version of this on the title screen though, jeez.
-
-Choplifter II - Genuinely one of the hardest calls to make in terms of title. The apparent “Rescue Survive” subtitle doesn’t appear within the manual or in the game. Choplifter III is ALSO called “Choplifter III: Rescue Survive” and that subtitle DOES appear in the game itself. I’m still excluding 
-
-Frank Thomas ‘Big Hurt’ Baseball - This formatting comes from the manual
-
-The Black Bass: Lure Fishing - This is the title actually used in the manual and game (sans colon). ‘The’ doesn’t appear in the logo though.
+- Arcade Classic No. 1: Asteroids / Missile Command - The slash comes from the game manual. This game (and the three others) are actually only referred to as “Asteroids / Missile Command” in the manual and title screen, but since the Arcade Classic text is all of the covers and clearly not a tagline, I’m including it in the title.
+- Battletoads / Double Dragon - This formatting comes from the NES manual. It’s never printed in the Game Boy Manual.
+- Batman Forever - “The Real Game Begins” text is interpreted as a tagline, not a subtitle
+- Battleship - “The Classic Naval Combat Game” is interpreted as a tagline because it doesn’t appear everywhere on the box and isn’t used within the manual or game.
+- Bill & Ted's Excellent Game Boy Adventure - “A Bogus Journey!” is a tagline that only appears on the back of the box.
+- Bo Jackson Hit and Run! Baseball and Football - This game title is a mess. The front packaging refers to it as “Bo Jackson - Two Games in One” and the back of the box lists each game individually. But the manual and title screen refer to it as this so that’s what I’m going with.
+- Boggle Plus - “3-Minute Word Games” is interpreted as a tagline
+- BreakThru - “Alexey Pajitnov, Creator of Tetris, Introduces:” only ever appears on the front of the box so I’m not including it in the title.
+- Championship Pool - For everybody’s sanity I’m leaving out “The Billiard Congress of America Presents” from the title, which does not appear within the manual or on the title screen. The Sega Genesis version actually does have a version of this on the title screen though, jeez.
+- Choplifter II - Genuinely one of the hardest calls to make in terms of title. The apparent “Rescue Survive” subtitle doesn’t appear within the manual or in the game. Choplifter III is ALSO called “Choplifter III: Rescue Survive” and that subtitle DOES appear in the game itself. I’m still excluding 
+- Frank Thomas ‘Big Hurt’ Baseball - This formatting comes from the manual
+- The Black Bass: Lure Fishing - This is the title actually used in the manual and game (sans colon). ‘The’ doesn’t appear in the logo though.
 
 # Unlicensed US releases
 
@@ -550,108 +539,107 @@ The Black Bass: Lure Fishing - This is the title actually used in the manual and
 
 ## Notes:
 
-Game Genie, Game Shark, Mega Memory Card, and various models of Action Replay are not included since they are not standalone games.
+- Game Genie, Game Shark, Mega Memory Card, and various models of Action Replay are not included since they are not standalone games.
+- Monochrome Sachen games (e.g. Beast Fighter) are probably of interest to unlicensed collectors but are out scope for this list. I’m sure someone will say their import shop sold Beast Fighter in the US back in the day.
 
-Monochrome Sachen games (e.g. Beast Fighter) are probably of interest to unlicensed collectors but are out scope for this list. I’m sure someone will say their import shop sold Beast Fighter in the US back in the day.
+# US Publisher Variants
 
-# Publisher Variants
-
-Adventure Island (Hudson)
-Adventure Island (Electro Brain)
-Adventure Island II: Aliens in Paradise (Hudson)
-Adventure Island II: Aliens in Paradise (Electro Brain)
-Aerostar (Vic Tokai)
-Aerostar (Sunsoft)
-Blades of Steel (Ultra Games)
-Blades of Steel (Konami)
-Bonk's Adventure (Hudson)
-Bonk's Adventure (Electro Brain)
-Bonk's Revenge (Hudson)
-Bonk's Revenge (Electro Brain)
-Bubble Bobble (Taito Corporation)
-Bubble Bobble (Natsume)
-Bubble Bobble Part 2 (Taito Corporation)
-Bubble Bobble Part 2 (Natsume)
-BurgerTime Deluxe (Data East)
-BurgerTime Deluxe (Sunsoft)
-Caesars Palace Arcadia Systems
-Caesars Palace (Virgin Interactive)
-Chase H.Q. (Taito Corporation)
-Chase H.Q. (Natsume)
-Daedalian Opus (Vic Tokai)
-Daedalian Opus (Sunsoft)
-David Crane's The Rescue of Princess Blobette (Absolute Entertainment)
-David Crane's The Rescue of Princess Blobette (Electro Brain)
-Disney's Aladdin (Virgin Interactive)
-Disney's Aladdin (THQ)
-Disney's Darkwing Duck (Capcom)
-Disney's Darkwing Duck (Sunsoft)
-Disney's DuckTales (Capcom)
-Disney's DuckTales (THQ)
-Disney's DuckTales 2 (Capcom)
-Disney's DuckTales 2 (Disney Interactive Studios)
-Disney's TaleSpin (Capcom)
-Disney's TaleSpin (Sunsoft)
-Disney's The Jungle Book (Virgin Interactive)
-Disney's The Jungle Book (THQ)
-Disney's The Lion King (Virgin Interactive)
-Disney's The Lion King (THQ)
-Disney's The Little Mermaid (Capcom)
-Disney's The Little Mermaid (Disney Interactive Studios)
-Dragon's Lair: The Legend (Sony Imagesoft)
-Dragon's Lair: The Legend (Ubisoft)
-Elevator Action (Taito Corporation)
-Elevator Action (Natsume)
-Felix the Cat (Hudson Soft)
-Felix the Cat (Electro Brain)
-Final Fantasy Adventure (SquareSoft)
-Final Fantasy Adventure (Sunsoft)
-Final Fantasy Legend (SquareSoft)
-Final Fantasy Legend (Sunsoft)
-Final Fantasy Legend II (SquareSoft)
-Final Fantasy Legend II (Sunsoft)
-Final Fantasy Legend III (SquareSoft)
-Final Fantasy Legend III (Sunsoft)
-Lock n' Chase (Data East)
-Lock n' Chase (Sunsoft)
-Mega Man II (Capcom)
-Mega Man II (Nintendo)
-Mega Man: Dr. Wily's Revenge (Capcom)
-Mega Man: Dr. Wily's Revenge (Nintendo)
-Mickey's Dangerous Chase (Capcom)
-Mickey's Dangerous Chase (Nintendo)
-Milon's Secret Castle (Hudson)
-Milon's Secret Castle (Electro Brain)
-Mouse Trap Hotel (Electro Brain)
-Mouse Trap Hotel (Milton Bradley)
-Operation C (Ultra Games)
-Operation C (Konami)
-Revenge of the 'Gator (Hal)
-Revenge of the 'Gator (Electro Brain)
-Side Pocket (Data East)
-Side Pocket (Sunsoft)
-Star Wars (Capcom)
-Star Wars (Nintendo)
-Star Wars: The Empire Strikes Back (Capcom)
-Star Wars: The Empire Strikes Back (Ubisoft)
-Super Chase H.Q. (Taito Corporation)
-Super Chase H.Q. (Natsume)
-The Chessmaster (Hi Tech Expressions)
-The Chessmaster (Mindscape Inc.)
-Tom & Jerry (Hi Tech Expressions)
-Tom & Jerry (Majesco Games)
-Trax (Hal)
-Trax (Electro Brain)
-Tumble Pop (Data East)
-Tumble Pop (Sunsoft)
-Turrican Accolade
-Turrican (Sunsoft)
-Ultra Golf (Ultra Games)
-Ultra Golf (Konami)
-Who Framed Roger Rabbit (Capcom)
-Who Framed Roger Rabbit (Sunsoft)
-World Circuit Series (Ultra Games)
-World Circuit Series (Konami)
+- Adventure Island (Hudson)
+- Adventure Island (Electro Brain)
+- Adventure Island II: Aliens in Paradise (Hudson)
+- Adventure Island II: Aliens in Paradise (Electro Brain)
+- Aerostar (Vic Tokai)
+- Aerostar (Sunsoft)
+- Blades of Steel (Ultra Games)
+- Blades of Steel (Konami)
+- Bonk's Adventure (Hudson)
+- Bonk's Adventure (Electro Brain)
+- Bonk's Revenge (Hudson)
+- Bonk's Revenge (Electro Brain)
+- Bubble Bobble (Taito Corporation)
+- Bubble Bobble (Natsume)
+- Bubble Bobble Part 2 (Taito Corporation)
+- Bubble Bobble Part 2 (Natsume)
+- BurgerTime Deluxe (Data East)
+- BurgerTime Deluxe (Sunsoft)
+- Caesars Palace Arcadia Systems
+- Caesars Palace (Virgin Interactive)
+- Chase H.Q. (Taito Corporation)
+- Chase H.Q. (Natsume)
+- Daedalian Opus (Vic Tokai)
+- Daedalian Opus (Sunsoft)
+- David Crane's The Rescue of Princess Blobette (Absolute Entertainment)
+- David Crane's The Rescue of Princess Blobette (Electro Brain)
+- Disney's Aladdin (Virgin Interactive)
+- Disney's Aladdin (THQ)
+- Disney's Darkwing Duck (Capcom)
+- Disney's Darkwing Duck (Sunsoft)
+- Disney's DuckTales (Capcom)
+- Disney's DuckTales (THQ)
+- Disney's DuckTales 2 (Capcom)
+- Disney's DuckTales 2 (Disney Interactive Studios)
+- Disney's TaleSpin (Capcom)
+- Disney's TaleSpin (Sunsoft)
+- Disney's The Jungle Book (Virgin Interactive)
+- Disney's The Jungle Book (THQ)
+- Disney's The Lion King (Virgin Interactive)
+- Disney's The Lion King (THQ)
+- Disney's The Little Mermaid (Capcom)
+- Disney's The Little Mermaid (Disney Interactive Studios)
+- Dragon's Lair: The Legend (Sony Imagesoft)
+- Dragon's Lair: The Legend (Ubisoft)
+- Elevator Action (Taito Corporation)
+- Elevator Action (Natsume)
+- Felix the Cat (Hudson Soft)
+- Felix the Cat (Electro Brain)
+- Final Fantasy Adventure (SquareSoft)
+- Final Fantasy Adventure (Sunsoft)
+- Final Fantasy Legend (SquareSoft)
+- Final Fantasy Legend (Sunsoft)
+- Final Fantasy Legend II (SquareSoft)
+- Final Fantasy Legend II (Sunsoft)
+- Final Fantasy Legend III (SquareSoft)
+- Final Fantasy Legend III (Sunsoft)
+- Lock n' Chase (Data East)
+- Lock n' Chase (Sunsoft)
+- Mega Man II (Capcom)
+- Mega Man II (Nintendo)
+- Mega Man: Dr. Wily's Revenge (Capcom)
+- Mega Man: Dr. Wily's Revenge (Nintendo)
+- Mickey's Dangerous Chase (Capcom)
+- Mickey's Dangerous Chase (Nintendo)
+- Milon's Secret Castle (Hudson)
+- Milon's Secret Castle (Electro Brain)
+- Mouse Trap Hotel (Electro Brain)
+- Mouse Trap Hotel (Milton Bradley)
+- Operation C (Ultra Games)
+- Operation C (Konami)
+- Revenge of the 'Gator (Hal)
+- Revenge of the 'Gator (Electro Brain)
+- Side Pocket (Data East)
+- Side Pocket (Sunsoft)
+- Star Wars (Capcom)
+- Star Wars (Nintendo)
+- Star Wars: The Empire Strikes Back (Capcom)
+- Star Wars: The Empire Strikes Back (Ubisoft)
+- Super Chase H.Q. (Taito Corporation)
+- Super Chase H.Q. (Natsume)
+- The Chessmaster (Hi Tech Expressions)
+- The Chessmaster (Mindscape Inc.)
+- Tom & Jerry (Hi Tech Expressions)
+- Tom & Jerry (Majesco Games)
+- Trax (Hal)
+- Trax (Electro Brain)
+- Tumble Pop (Data East)
+- Tumble Pop (Sunsoft)
+- Turrican Accolade
+- Turrican (Sunsoft)
+- Ultra Golf (Ultra Games)
+- Ultra Golf (Konami)
+- Who Framed Roger Rabbit (Capcom)
+- Who Framed Roger Rabbit (Sunsoft)
+- World Circuit Series (Ultra Games)
+- World Circuit Series (Konami)
 
 ## Notes:
 - **This list is potentially incomplete**
@@ -659,7 +647,7 @@ World Circuit Series (Konami)
 - For the following games the second release by Nintendo/Disney Interactive Studios was only a Player's Choice release: DuckTales 2, The Little Mermaid, Mega Man: Dr. Wily's Revenge, Mega Man II, Mickey's Dangerous Chase, Star Wars, The Bugs Bunny Crazy Castle, The Bugs Bunny Crazy Castle 2
 - There are publisher name variants such as "Konami, Inc." changing to "Konami of America, Inc.". Since many people would just say "Konami", they're poorly documented, and this isn't my wheelhouse, I did not attempt to include these.
 
-# Backwards Compatible Game Boy Color Games
+# Backwards Compatible US Game Boy Color Games
 
 1. 720°
 2. Antz
@@ -797,7 +785,7 @@ World Circuit Series (Konami)
 - I've seen 1942, Donald Duck Goin' Quackers, Driver, Formula One 2000, Gex 3, Motocross Maniacs 2, NFL Blitz 2000, NHL Blades of Steel, Ready 2 Rumble, Rhino Rumble, The Smurf's Nightmare, Top Gear Pocket, Vigilante 8, and Xtreme Sports erroneously listed as backwards compatible.
 - The Game Boy Color Promotional Demo cartridge is also a black cart but isn't backwards compatible
 
-# Player's Choice Releases
+# US Player's Choice Releases
 
 1. Disney's DuckTales 2
 2. Disney's The Little Mermaid
