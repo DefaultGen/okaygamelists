@@ -11,6 +11,8 @@ Each list contains standalone software for the appropriate console. Standalone s
 
 Games that are substantially the same game are only counted once (e.g. Stadium Events and World Class Track Meet). However games with additional gameplay content may both be counted. For example, Sunday Funday is a reskinned but substantially the same game as Menace Beach, however it includes additional minigames so it is counted separately.
 
+Publisher variants are not counted as separate games (e.g. Caltron vs. Myriad 6-in-1)
+
 Multi-packs, multicarts, and box sets of all kinds are filtered out to separate lists unless they include unique games. For example, Outlaw Golf / Seablade is not on the main Xbox list, because it contains 2 games that are already represented there. However, Maxi 15 is on the unlicensed NES list because the game Stakk'M is exclusive to the cartridge even though the other 14 games are already represented.
 
 Ultimately, subjective calls have to be made no matter how specific you make your criteria, so anything worth thinking about will be noted whether it's included or not.
