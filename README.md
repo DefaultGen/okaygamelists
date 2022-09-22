@@ -5,6 +5,16 @@ The intention for these lists is to make it easy to understand what is included,
 
 Each game on these lists is individually vetted, considered, and re-titled. Nothing is copy pasted.
 
+## Criteria
+
+Each list contains standalone software for the appropriate console. Standalone software means games and non-games to an extent. Taboo: The Sixth Sense is not a game, however it's packaged like all the other NES releases and should clearly be on the list. Action Replay on the other hand is not a cartridge you can do anything with unless you pair it with a game, so it's an accessory and not included.
+
+Games that are substantially the same game are only counted once (e.g. Stadium Events and World Class Track Meet). However games with additional gameplay content may both be counted. For example, Sunday Funday is a reskinned but substantially the same game as Menace Beach, however it includes additional minigames so it is counted separately.
+
+Multi-packs, multicarts, and box sets of all kinds are filtered out to separate lists unless they include unique games. For example, Outlaw Golf / Seablade is not on the main Xbox list, because it contains 2 games that are already represented there. However, Maxi 15 is on the unlicensed NES list because the game Stakk'M is exclusive to the cartridge even though the other 14 games are already represented.
+
+Ultimately, subjective calls have to be made no matter how specific you make your criteria, so anything worth thinking about will be noted whether it's included or not.
+
 ## Choosing one title per game
 
 Every entry on each of these lists is indivdually verified and I've subjectively chosen the single best title in my opinion based on the box, manual, and title screen. Many games have multiple variously formatted or ambiguous titles. It is out of the scope these lists to try to rectify this, but I did try to pick the best one so you don't end up with nonsense like "Aladdin (Disney's)" in your list of games as if the Disney's is in parentheses at the end of the title.
