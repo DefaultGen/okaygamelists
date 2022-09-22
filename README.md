@@ -15,6 +15,8 @@ Publisher variants are not counted as separate games (e.g. Caltron vs. Myriad 6-
 
 Multi-packs, multicarts, and box sets of all kinds are filtered out to separate lists unless they include unique games. For example, Outlaw Golf / Seablade is not on the main Xbox list, because it contains 2 games that are already represented there. However, Maxi 15 is on the unlicensed NES list because the game Stakk'M is exclusive to the cartridge even though the other 14 games are already represented.
 
+Listed games should've been somehow obtainable by a consumer, whether that means Blockbuster sold a used "rental exclusive" at the end of its life, Nintendo Power gave it away in a contest, or you submitted mayonnaise UPCs for a chance to win. This is meant to exclude prototypes, samples, and most competition carts, however not smaller promotional releases. Motoko-chan no Wonder Kitchen is a Super Famicom Game you could only win in a lottery after submitting mayo UPCs, however 10,000 copies were given away. Despite the unorthodox distribution, it is certainly a full game intended for the public.
+
 Ultimately, subjective calls have to be made no matter how specific you make your criteria, so anything worth thinking about will be noted whether it's included or not.
 
 ## Choosing one title per game
