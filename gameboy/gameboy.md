@@ -820,7 +820,7 @@ The titles starting with "Disney's" or “MTV’s” are often inconsistently re
 31. Wave Race
 
 ## Notes:
-The Smurfs and Mickey Mouse: Magic Wands were only ever released as Player's Choice in the US
+- The Smurfs and Mickey Mouse: Magic Wands were only ever released as Player's Choice in the US
 
 # Sources:
 
@@ -829,4 +829,4 @@ The Smurfs and Mickey Mouse: Magic Wands were only ever released as Player's Cho
 - RH has a thread on GB variants: [https://www.videogamesage.com/forums/topic/733-work-in-progress-complete-list-of-naus-game-boy-cartridge-variants/](https://www.videogamesage.com/forums/topic/733-work-in-progress-complete-list-of-naus-game-boy-cartridge-variants/)
 - Game Boy Database has an impressive variant list with both cart and box pictures: [http://game-boy-database.com/fullset-USA.html](http://game-boy-database.com/fullset-USA.html)
 - The NintendoAge list was an important resource but has inaccuracies and is pretty hard to read now: [https://web.archive.org/web/20180822104954/http://nintendoage.com/index.cfm?FuseAction=Search.GB](https://web.archive.org/web/20180822104954/http://nintendoage.com/index.cfm?FuseAction=Search.GB)
-While it's far from my primary source, Wikipedia editors have cleaned up many lists like this in recent years: [https://en.wikipedia.org/wiki/List_of_Game_Boy_games](https://en.wikipedia.org/wiki/List_of_Game_Boy_games)
+- While it's far from my primary source, Wikipedia editors have cleaned up many lists like this in recent years: [https://en.wikipedia.org/wiki/List_of_Game_Boy_games](https://en.wikipedia.org/wiki/List_of_Game_Boy_games)
