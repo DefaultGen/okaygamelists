@@ -507,13 +507,11 @@
 506. Zoop
 
 ## Notes:
-There is some debate as to whether Pokemon Yellow should be considered a Game Boy or GBC game. The box says Game Boy but the game has certain Super Game Boy and Game Boy Color enhancements. I chose to include it here.
-This list includes Game Boy Camera, which most lists do not. Since it includes standalone games on the cartridge and is not merely an accessory, I include it as a game. People are seriously out there with Berlitz French Translator on their GB list but don’t count Game Boy Camera.
-The Smurfs was only ever released as Player's Choice in the US. There is a standard release in Europe.
-Ghostbusters II and Maru's Mission each have two major box art variants worth noting
-At some point Beethoven: the Ultimate Canine Caper, Blues Brothers: Jukebox Adventure, The, FIFA: Road to World Cup 98, Monster Max, and Starhawk were erroneously listed as US releases on Wikipedia
-For consistency's sake titles and subtitles are separated by a colon whether it's actually in the title or not. This leads to many situations where the game title is not literally what's printed in the game materials. For example Double Dribble: 5 on 5 is printed as "Double Dribble 5 on 5" on the box and printed as "Double Dribble - 5 on 5" in the manual. As much as I'd love to be strictly accurate, picking any one formatting as correct would make many titles strange and inconsistent. No one wants Wario Land on their list as “Wario Land Super Mario Land 3” with no punctuation which is how the manual refers to it.
-The titles starting with "Disney's" or “MTV’s” are often inconsistently referenced between different lists. Similar to Mike Tyson’s Punch-Out!!, this list includes the possessives so long as they don’t only appear on the front of the box. For example The Billiard Congress of America Presents Championship Pool is just titled Championship Pool because that only ever appears as a blurb on front of the box.
+- There is some debate as to whether Pokemon Yellow should be considered a Game Boy or GBC game. The box says Game Boy but the game has certain Super Game Boy and Game Boy Color enhancements. I chose to include it here.
+- This list includes Game Boy Camera, which most lists do not. Since it includes standalone games on the cartridge and is not merely an accessory, I include it as a game. People are seriously out there with Berlitz French Translator on their GB list but don’t count Game Boy Camera.
+- The Smurfs and Mickey Mouse: Magic Wands were only ever released as Player's Choice in the US.
+- Ghostbusters II and Maru's Mission each have two major box art variants worth noting
+- At some point Beethoven: the Ultimate Canine Caper, Blues Brothers: Jukebox Adventure, The, FIFA: Road to World Cup 98, Monster Max, and Starhawk were erroneously listed as US releases on Wikipedia
 
 ### Some weird/inconsistent game titles include:
 - Arcade Classic No. 1: Asteroids / Missile Command - The slash comes from the game manual. This game (and the three others) are actually only referred to as “Asteroids / Missile Command” in the manual and title screen, but since the Arcade Classic text is all of the covers and clearly not a tagline, I’m including it in the title.
