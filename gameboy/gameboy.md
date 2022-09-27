@@ -11,7 +11,7 @@
 10. Alleyway
 11. Altered Space: A 3-D Alien Adventure
 12. Amazing Penguin
-13. Amazing Tater
+13. A-mazing Tater
 14. Animaniacs
 15. Arcade Classic No. 1: Asteroids / Missile Command
 16. Arcade Classic No. 2: Centipede / Millipede
@@ -514,6 +514,7 @@
 - At some point Beethoven: the Ultimate Canine Caper, Blues Brothers: Jukebox Adventure, The, FIFA: Road to World Cup 98, Monster Max, and Starhawk were erroneously listed as US releases on Wikipedia
 
 ### Some weird/inconsistent game titles include:
+- A-mazing Tater has a dash in it. It's sad, but true.
 - Arcade Classic No. 1: Asteroids / Missile Command - The slash comes from the game manual. This game (and the three others) are actually only referred to as “Asteroids / Missile Command” in the manual and title screen, but since the Arcade Classic text is all of the covers and clearly not a tagline, I’m including it in the title.
 - Battletoads / Double Dragon - This formatting comes from the NES manual. It’s never printed in the Game Boy Manual.
 - Batman Forever - “The Real Game Begins” text is interpreted as a tagline, not a subtitle
