@@ -26,10 +26,17 @@ For consistency's sake titles and subtitles are separated by a colon whether it'
 
 ### Possessives
 
-The titles starting with "Disney's" or “MTV’s” are often inconsistently referenced between different lists. Similar to Mike Tyson’s Punch-Out!!, these lists include the possessives if it appears on the majority of the front of the box, interior of the game manual, and title screen. For example Game Boy's "The Billiard Congress of America Presents Championship Pool" is just titled "Championship Pool" because the possessive only ever appears as a blurb on front of the box.
+The titles starting with "Disney's" or “MTV’s” are often inconsistently referenced between different lists. Similar to Mike Tyson’s Punch-Out!!, these lists include the possessives if the majority of the front of the box, interior of the game manual, and title screen agree on it. For example Game Boy's "The Billiard Congress of America Presents Championship Pool" is just titled "Championship Pool" because the possessive only ever appears as a blurb on front of the box.
 
 ![](https://i.imgur.com/ZZZ0mye.png)
 ![](https://i.imgur.com/co7ikeh.png)
+
+For games with significant inconsistencies or disagreements, I'm just going to make a judgement call (and that judgement call will likely be dropping the inconsistent parts altogether). For example The Immortal is written as Will Harvey Presents The Immortal, Electronic Arts Presents The Immortal, The Immortal, and even Immortal. Like a sane person, I'm just going with "The Immortal" here.
+
+![](https://i.imgur.com/XDlWxUZ.png)
+![](https://i.imgur.com/gVB0hWt.png)
+![](https://i.imgur.com/bG9cLnb.png)
+![](https://i.imgur.com/wrwaI7I.png)
 
 ### Retitled Games
 
