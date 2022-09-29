@@ -14,9 +14,11 @@ Listed games should've been somehow obtainable by a consumer, whether that means
 
 ## Choosing one title per game
 
-Every entry on each of these lists is indivdually verified and I've subjectively chosen the single best title in my opinion based on the box, manual, and title screen. Many games have multiple variously formatted or ambiguous titles. It is out of the scope these lists to try to rectify this, but I did try to pick the best one so you don't end up with nonsense like "Aladdin (Disney's)" in your list of games as if the Disney's is in parentheses at the end of the title.
+Every entry on each of these lists is indivdually verified and I've subjectively chosen the single best title in my opinion based on the box, manual, and title screen. Many games have multiple variously formatted or ambiguous titles. It is out of the scope these lists to fully rectify this. If you are maintaining a database of video games, it is very useful to include all variations of a game title. These lists are not meant to replace such a database.
 
-If you are maintaining a database of video games, it is very useful to include all variations of a game title. These lists are not meant to replace such a database.
+Subjective choices _have_ to be made here. You can't say "What it says on the box is the title of the game, period" or else you'd be calling Pepsiman "Drink!"
+
+![](https://i.imgur.com/GI3frT3.jpg)
 
 ### Punctuation
 
