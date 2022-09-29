@@ -1,6 +1,6 @@
 ## Criteria
 
-Each list contains standalone software for the appropriate console. Standalone software means games and non-games to an extent. Taboo: The Sixth Sense is not a game, however it's packaged like all the other NES releases and should clearly be on the list. Action Replay on the other hand is not a cartridge you can do anything with unless you pair it with a game, so it's an accessory and not included.
+To be clear, nothing is _excluded_ from these lists. Some things are merely shifted from the list down to the notes if I don't think they belong. Each list contains standalone software for the appropriate console. Standalone software means games and non-games to an extent. Taboo: The Sixth Sense is not a game, however it's packaged like all the other NES releases and should clearly be on the list. Action Replay on the other hand is not a cartridge you can do anything with unless you pair it with a game, so it's an accessory and not included.
 
 Games that are substantially the same game are only counted once (e.g. Stadium Events and World Class Track Meet). However games with additional gameplay content may both be counted. For example, Sunday Funday is a reskinned but substantially the same game as Menace Beach, however it includes additional minigames so it is counted separately.
 
