@@ -519,7 +519,7 @@
 - Battletoads / Double Dragon - This formatting comes from the NES manual. It’s never printed in the Game Boy Manual.
 - Batman Forever - “The Real Game Begins” text is interpreted as a tagline, not a subtitle
 - Battleship - “The Classic Naval Combat Game” is interpreted as a tagline because it doesn’t appear everywhere on the box and isn’t used within the manual or game.
-- Bill & Ted's Excellent Game Boy Adventure - “A Bogus Journey!” is a tagline that only appears on the back of the box.
+- Bill & Ted's Excellent Game Boy Adventure - “A Bogus Journey!” only appears on the box and subjectively doesn't seem to be part of the title.
 - Bo Jackson Hit and Run! Baseball and Football - This game title is a mess. The front packaging refers to it as “Bo Jackson - Two Games in One” and the back of the box lists each game individually. But the manual and title screen refer to it as this so that’s what I’m going with.
 - Boggle Plus - “3-Minute Word Games” is interpreted as a tagline
 - BreakThru - “Alexey Pajitnov, Creator of Tetris, Introduces:” only ever appears on the front of the box so I’m not including it in the title.
