@@ -509,6 +509,7 @@
 ## Notes:
 - There is some debate as to whether Pokemon Yellow should be considered a Game Boy or GBC game. The box says Game Boy but the game has certain Super Game Boy and Game Boy Color enhancements. I chose to include it here.
 - This list includes Game Boy Camera, which most lists do not. Since it includes standalone games on the cartridge and is not merely an accessory, I include it as a game. People are seriously out there with Berlitz French Translator on their GB list but don’t count Game Boy Camera.
+- Pokemon Red and Blue could be considered the same game, although I personally wouldn't. They have different Pokemon with different moves, so the mechanics are slightly different and both games need to exist so you can catch 'em all.
 - The Smurfs and Mickey Mouse: Magic Wands were only ever released as Player's Choice in the US.
 - Ghostbusters II and Maru's Mission each have two major box art variants worth noting
 - At some point Beethoven: the Ultimate Canine Caper, Blues Brothers: Jukebox Adventure, The, FIFA: Road to World Cup 98, Monster Max, and Starhawk were erroneously listed as US releases on Wikipedia
